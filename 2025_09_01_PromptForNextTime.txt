@@ -1,0 +1,7 @@
+Please continue building on yesterday’s AI session record. We had drafted a portfolio project on an AI audiobook pipeline using Python, OpenAI, and VS Code. Pick up from where we left off by:
+
+1. Enhancing the portfolio project with a visual flow diagram of the pipeline (Markdown/mermaid.js).
+
+2. Expanding the project with optional extensions (translations, automated metadata generation, distribution channels).
+
+3. Keeping the session record live, professional, and career-focused, ready for export in Markdown format.
